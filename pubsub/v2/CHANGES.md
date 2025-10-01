@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/googleapis/google-cloud-go/compare/pubsub/v2/v2.1.0...pubsub/v2/v2.2.0) (2025-10-01)
+
+
+### Features
+
+* **pubsub/v2:** Support the protocol version in StreamingPullRequest ([#12985](https://github.com/googleapis/google-cloud-go/issues/12985)) ([4e8c9d5](https://github.com/googleapis/google-cloud-go/commit/4e8c9d50a07d209417d4a5807ab1990160a4fd0b))
+
 ## [2.1.0](https://github.com/googleapis/google-cloud-go/compare/pubsub/v2/v2.0.1...pubsub/v2/v2.1.0) (2025-09-25)
 
 
